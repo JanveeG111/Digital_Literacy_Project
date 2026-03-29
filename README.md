@@ -1,6 +1,7 @@
 # Janvee Gupta-Digital_literacy_project
 Project Overview
 The Cybersecurity Awareness Hub is an interactive educational platform designed to bridge the gap between complex security concepts and everyday digital habits. In an era of increasing data breaches and sophisticated phishing, this project provides a centralized resource for users to understand common threats and learn how to implement robust defensive measures for their personal and professional data.
+COURSE:CSE0001-Digital Literacy
 MADE BY- JANVEE GUPTA
 REGISTER NO.-25BAI10626
 
